@@ -1,0 +1,5 @@
+Buat list nilai ujian 5 siswa.
+Buat program untuk:
+    - Menampilkan semua nilai
+    - Menghitung rata-rata
+    - Menentukan siapa yang lulus/tidak lulus jika ≥ 75
